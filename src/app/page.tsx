@@ -71,7 +71,7 @@ export default function Home() {
                               GitHub <ExternalLink className='w-3 h-3' />
                             </a>
                           ) : null}
-                          {project.link ? (
+                          {/* {project.link ? (
                             <a
                               href={project.link}
                               target='_blank'
@@ -80,7 +80,7 @@ export default function Home() {
                             >
                               View <ExternalLink className='w-3 h-3' />
                             </a>
-                          ) : null}
+                          ) : null} */}
                         </div>
                       </div>
                       <p className='text-sm text-zinc-500 dark:text-zinc-400 mb-2'>
